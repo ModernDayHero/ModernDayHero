@@ -1,6 +1,6 @@
 ## Hi, I'm Patrick 👋
 
-Project manager and maker based in Taiwan, working where hardware, manufacturing, and IT meet. My background runs from IT support through STEAM education to on-site manufacturing engineering (PCB, injection molding, CNC, vacuum forming), and today I manage supply chain and product projects for clients building physical products.
+Project manager and maker based in Taiwan, working where hardware, manufacturing, and IT. My background runs from IT support through STEAM education to on-site manufacturing engineering (PCB, injection molding, CNC, vacuum forming), and today I manage supply chain and product projects for clients building physical products.
 
 - 🏭 **Now:** Supply chain and project management for hardware products
 - 🔧 **Building:** Custom PCBs, robotics, and homelab infrastructure
