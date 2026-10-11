@@ -26,4 +26,5 @@ Project manager and maker based in Taiwan, working where hardware, manufacturing
 ---
 
 ### 🤝 Connect
+[![Blog](https://img.shields.io/badge/Blog-steamworkz.com-FF6B35?style=flat&logo=rss&logoColor=white)](https://steamworkz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcguinness-patrick)
