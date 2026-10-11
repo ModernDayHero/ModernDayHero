@@ -1,40 +1,29 @@
-### Hi there 👋
+## Hi, I'm Patrick 👋
 
-<h1>Hi, I'm Patrick, an <a href="https://www.linkedin.com/in/mcguinness-patrick">IT Professional</a>☺</h1>
+Project manager and maker based in Taiwan, working where hardware, manufacturing, and IT meet. My background runs from IT support through STEAM education to on-site manufacturing engineering (PCB, injection molding, CNC, vacuum forming), and today I manage supply chain and product projects for clients building physical products.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+- 🏭 **Now:** Supply chain and project management for hardware products
+- 🔧 **Building:** Custom PCBs, robotics, and homelab infrastructure
+- 🎓 **Into:** STEAM education, embedded systems, and automation
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ModernDayHero/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ModernDayHero/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ModernDayHero/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ModernDayHero/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ModernDayHero/azure-network-protocols)
+---
 
-<h2>🤳Connect with me:</h2>
+### 🛠️ Hardware & Maker Projects
+<!-- Add repo links as you publish them -->
+- **BLE Motor Controller**: ESP32-based brushed-motor controller with swappable driver daughterboards
+- **Autonomous Rover**: BeagleBone Blue, Jetson, and OAK-D Lite platform
 
+### 💻 IT Projects
+**osTicket (Help Desk Ticketing System)**
+- [Prerequisites and Installation](https://github.com/ModernDayHero/osticket-prereqs)
+- [Post-Installation Configuration](https://github.com/ModernDayHero/post-install-config)
+- [Ticket Lifecycle Examples](https://github.com/ModernDayHero/ticket-lifecycle)
 
-[<img align="left" alt="Patrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="Patrick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Microsoft Azure**
+- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/ModernDayHero/configure-ad)
+- [Network Security Groups and Inspecting Network Protocols](https://github.com/ModernDayHero/azure-network-protocols)
 
-[instagram]: https://www.instagram.com/Josh
--->
-[linkedin]: https://www.linkedin.com/in/mcguinness-patrick
+---
 
-
-
-<!--
-**ModernDayHero/ModernDayHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcguinness-patrick)
